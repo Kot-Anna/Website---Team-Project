@@ -1,4 +1,4 @@
-# Team-Project_HTML_CSS
+# Static Website - Team Project
 
 ### Team:
 - Anna Kot,
